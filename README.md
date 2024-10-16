@@ -25,7 +25,6 @@ Create a role for the Lambda Function, the Role should have these policies:
 
 ## Environment Variables
 
-![alt text](https://github.com/tulepaloalto/eks-defenders-automation/blob/main/readmepics/Screenshot%202024-09-10%20at%204.25.49%E2%80%AFPM.png?raw=true)
     
     AWS_ACCESS_POLICY_ARN: Should be the ARN of the AmazonEKSClusterAdminPolicy
 
@@ -43,6 +42,8 @@ Create a role for the Lambda Function, the Role should have these policies:
 
     REGION: The region of the EKS clusters
 
-    ##Secrets Manager
+##Secrets Manager
+
+![alt text](https://github.com/tulepaloalto/eks-defenders-automation/blob/main/readmepics/Screenshot%202024-09-10%20at%204.25.49%E2%80%AFPM.png?raw=true)
 	
-	•	The access key and secret key can be created in the Prisma Cloud console (Settings -> Access Control -> Access key)
+• The access key and secret key can be created in the Prisma Cloud console (Settings -> Access Control -> Access key)
