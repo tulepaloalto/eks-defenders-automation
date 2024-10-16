@@ -3,7 +3,7 @@
 ## Configuration
 
 ### General Configuration 
-![alt text](https://imgur.com/gallery/christina-ricci-is-catwoman-ADFr4c5)
+![alt text](https://github.com/tulepaloalto/eks-defenders-automation/blob/main/readmepics/Screenshot%202024-09-10%20at%204.11.54%E2%80%AFPM.png)
 
 The timeout at 10 minutes is fine for testing, but should set to an hour for standard deployment.
 
