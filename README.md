@@ -25,7 +25,7 @@ Create a role for the Lambda Function, the Role should have these policies:
 
 ## Environment Variables
 
-    ![alt text](https://github.com/tulepaloalto/eks-defenders-automation/blob/main/readmepics/Screenshot%202024-09-10%20at%204.25.49%E2%80%AFPM.png?raw=true)
+![alt text](https://github.com/tulepaloalto/eks-defenders-automation/blob/main/readmepics/Screenshot%202024-09-10%20at%204.25.49%E2%80%AFPM.png?raw=true)
     
     AWS_ACCESS_POLICY_ARN: Should be the ARN of the AmazonEKSClusterAdminPolicy
 
@@ -35,7 +35,7 @@ Create a role for the Lambda Function, the Role should have these policies:
 
     CONSOLE_ADDRESS: This can be found in the Prisma Cloud console (Runtime Security -> System -> Utilities -> Path to Console), only keep the url before twistlock.com 
 
-    ![alt text](https://github.com/tulepaloalto/eks-defenders-automation/blob/main/readmepics/Screenshot%202024-09-10%20at%204.21.59%E2%80%AFPM.png?raw=true)
+![alt text](https://github.com/tulepaloalto/eks-defenders-automation/blob/main/readmepics/Screenshot%202024-09-10%20at%204.21.59%E2%80%AFPM.png?raw=true)
 
     CSPM_ADDRESS: This should be your Prisma Cloud console URL, change app to api.
 
