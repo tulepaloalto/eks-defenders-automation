@@ -1,6 +1,8 @@
-# EKS Defender Deployment Automation Requirements:
+# EKS Defender Deployment Automation Requirements
 
-## Configuration
+Upload lambda_upload.zip to the Lambda function
+
+## Lambda function Configuration
 
 ### General Configuration 
 ![alt text](https://github.com/tulepaloalto/eks-defenders-automation/blob/main/readmepics/Screenshot%202024-09-10%20at%204.11.54%E2%80%AFPM.png?raw=true)
@@ -42,7 +44,7 @@ Create a role for the Lambda Function, the Role should have these policies:
 
     REGION: The region of the EKS clusters
 
-##Secrets Manager
+## Secrets Manager
 
 ![alt text](https://github.com/tulepaloalto/eks-defenders-automation/blob/main/readmepics/Screenshot%202024-09-10%20at%204.25.49%E2%80%AFPM.png?raw=true)
 	
