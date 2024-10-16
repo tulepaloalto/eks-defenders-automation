@@ -3,7 +3,7 @@
 ## Configuration
 
 ### General Configuration 
-![alt text] (https://imgur.com/gallery/christina-ricci-is-catwoman-ADFr4c5)
+![alt text](https://imgur.com/gallery/christina-ricci-is-catwoman-ADFr4c5)
 
 The timeout at 10 minutes is fine for testing, but should set to an hour for standard deployment.
 
